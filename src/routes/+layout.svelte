@@ -169,7 +169,7 @@
 			<span class="footer-tagline mono">{T.footer.tagline}</span>
 			<div class="footer-links">
 				<a
-					href="https://github.com/otoneko1102/justuuid"
+					href="https://github.com/otnc/justuuid"
 					target="_blank"
 					rel="noreferrer">GitHub</a
 				>
